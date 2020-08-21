@@ -10,10 +10,10 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>beyond</artifactId>
+  <artifactId>google</artifactId>
   <packaging>war</packaging>
-  <name>beyond</name>
-  <description>beyond.</description>
+  <name>google</name>
+  <description>google.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
